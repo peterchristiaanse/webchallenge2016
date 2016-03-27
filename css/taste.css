@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+@import url(https://fonts.googleapis.com/css?family=Muli:400,300);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+body {
+  line-height: 1.5;
+  font-family: 'Muli', 'Slabo 27px', Arial;
+  font-size: 1em;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Muli', Arial;
+}
+
+h1, h2 {
+  font-weight: 300;
+}
+
+.text {
+  font-family: 'Bitter', 'Times new Roman';
+}
+=======
+@import url(https://fonts.googleapis.com/css?family=Muli:400,300);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
+body {
+  line-height: 1.5;
+  font-family: 'Muli', 'Slabo 27px', Arial;
+  font-size: 1em;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Muli', Arial;
+}
+
+h1, h2 {
+  font-weight: 300;
+}
+
+.text {
+  font-family: 'Bitter', 'Times new Roman';
+}
+>>>>>>> 3174284a3d8764da7f341dcdebf16d41ce9b00d7
