@@ -48,7 +48,7 @@
     <h6>Sample text</h6>
     <div class="text">
       Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text - Sample text
-      Schreef lettertype :p Jup xD lawl
+      Schreef lettertype :p Jup xD lawl LOL
     </div>
 
   </body>
