@@ -1,3 +1,4 @@
+//All plugins or prototypes go here
 (function ( $ ) {
   $.fn.tell = function(a) {
     if (typeof a == 'undefined') {
